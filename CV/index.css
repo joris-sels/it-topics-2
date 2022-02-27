@@ -1,0 +1,16 @@
+
+body { 
+background-image:url(images/bg.jpg);
+color: white;
+font-family: 'Advent Pro', sans-serif;
+
+} 
+
+a { 
+    color: white;
+}
+
+#box { 
+border-style: solid;
+border-color: white;}
+    
