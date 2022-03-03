@@ -1,6 +1,6 @@
 
 body { 
-background-image:url(images/bg.jpg);
+    background-color: rgb(0, 0, 0);
 color: white;
 font-family: 'Advent Pro', sans-serif;
 
@@ -11,6 +11,8 @@ a {
 }
 
 #box { 
+border-width: 1px;
 border-style: solid;
 border-color: white;}
+
     
